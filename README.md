@@ -71,7 +71,7 @@ lib/ ├── main.dart # Application root & routing configuration (Abiodun) �
 
    ```bash
    git clone https://github.com/akumuyi/navigation_practice_room9.git
-   cd navigation_practice_room9
+   cd product_nav
    ```
 
 2. **Install Dependencies:**
