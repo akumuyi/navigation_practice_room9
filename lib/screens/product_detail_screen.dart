@@ -47,9 +47,9 @@ class ProductDetailScreen extends StatelessWidget {
                 SizedBox(height: 20),
                 // Favorite and rating icons
                 Row(
-                  mainAxisAlignment: MainAxisAlignment.center,
+                  mainAxisAlignment: MainAxisAlignment.end,
                   children: List.generate(
-                    5,
+                    3,
                     (index) => Icon(Icons.star_border,
                         color: Colors.red, size: 30),
                   ),
