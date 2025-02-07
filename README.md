@@ -25,7 +25,7 @@ This project is a simple product navigation application built with Flutter. The 
 
 The codebase is modularized to enable easy collaboration. The project structure is as follows:
 
-lib/ ├── main.dart # Application root & routing configuration (Collaborator 1) ├── models/ │ └── product.dart # Product model definition (Collaborator 4) ├── screens/ │ ├── product_list_screen.dart # Product list screen implementation (Collaborator 2) │ └── product_detail_screen.dart# Product detail screen implementation (Collaborator 3) ├── widgets/ │ └── product_card.dart # Reusable product card widget (Collaborator 2) └── constants/ └── colors.dart # Custom color constants for products (Collaborator 4)
+lib/ ├── main.dart # Application root & routing configuration (Abiodun) ├── models/ │ └── product.dart # Product model definition (Kevine) ├── screens/ │ ├── product_list_screen.dart # Product list screen implementation (Nicolle) │ └── product_detail_screen.dart# Product detail screen implementation (Nicholas) ├── widgets/ │ └── product_card.dart # Reusable product card widget (Nicolle) └── constants/ └── colors.dart # Custom color constants for products (Kevine)
 
 
 ## Features
